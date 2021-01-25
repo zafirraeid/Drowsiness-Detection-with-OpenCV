@@ -1,4 +1,4 @@
-#Wake Up
+# Wake Up
 
 Ever wanted to stay up and pull an all nighter for an exam you have in the morning?
 Well, Wake Up is here to help you! Using OpenCV and WinSound, I developed this program
